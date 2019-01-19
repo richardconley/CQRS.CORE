@@ -1,0 +1,9 @@
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\obj\Debug\netcoreapp2.2\EdumentCQRS.Core.csproj.CoreCompileInputs.cache
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\obj\Debug\netcoreapp2.2\EdumentCQRS.Core.AssemblyInfoInputs.cache
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\obj\Debug\netcoreapp2.2\EdumentCQRS.Core.AssemblyInfo.cs
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\bin\Debug\netcoreapp2.2\EdumentCQRS.Core.deps.json
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\bin\Debug\netcoreapp2.2\EdumentCQRS.Core.dll
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\bin\Debug\netcoreapp2.2\EdumentCQRS.Core.pdb
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\obj\Debug\netcoreapp2.2\EdumentCQRS.Core.dll
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\obj\Debug\netcoreapp2.2\EdumentCQRS.Core.pdb
+D:\Users\Rich\source\repos\TrashFruit\EdumentCQRS.Core\obj\Debug\netcoreapp2.2\EdumentCQRS.Core.csprojAssemblyReference.cache
