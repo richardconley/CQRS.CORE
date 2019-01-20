@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <RootNamespace>Edument.CQRS</RootNamespace>
-    <Versionprefix>1.0.2</Versionprefix>
+    <Versionprefix>1.0.5</Versionprefix>
   </PropertyGroup>
 
   <ItemGroup>
